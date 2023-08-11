@@ -30,8 +30,8 @@ Currently working as a Developer in Health Ministry on NPHO (National Public Hea
 🔗 Grab a link! Let's talk.
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=flat-plastic&logo=github&logoColor=white)](https://github.com/ShubhamJoshi1998)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&style=flat-plastic&logo=twitter&logoColor=white)](https://www.facebook.com/budhlakoti)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-budhlakoti)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&style=flat-plastic&logo=twitter&logoColor=white)](https://twitter.com/shivam306joshi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-joshi-827b66165/)
 
 ## 💻 Things I code with
 
