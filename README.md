@@ -1,6 +1,6 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=RakeshBudhlakoti&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham Joshi" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ShubhamJoshi1998&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham Joshi" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Shubham Joshi!]([https://github.com/RakeshBudhlakoti/](https://github.com/ShubhamJoshi1998)) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Shubham Joshi!]([https://github.com/ShubhamJoshi1998/](https://github.com/ShubhamJoshi1998)) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 ### Glad to see you here! :octocat:
 
@@ -15,21 +15,21 @@ Currently working as a Developer in Health Ministry on NPHO (National Public Hea
 
 ### :blush: Talking about Personal Stuff:
 
-<img align="right" height="250" width="400" alt="Rakesh Budhlakoti" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
+<img align="right" height="250" width="400" alt="Shubham Joshi" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
 
 -  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 -  📰 &nbsp; Reading tech blogs whenever possible.
 -  🍕 &nbsp; Travelling, meetups & tech events.
 -  🚀 &nbsp; I’m currently learning Full Stack Web Development.
 -  :computer: &nbsp; Most written code line `console.log("hello world");`
--  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RakeshBudhlakoti).
+-  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ShubhamJoshi1998).
 -  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
--  📝 &nbsp; Checkout my [Resume](https://github.com/RakeshBudhlakoti).
+-  📝 &nbsp; Checkout my [Resume](https://github.com/ShubhamJoshi1998).
 
 
 🔗 Grab a link! Let's talk.
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=flat-plastic&logo=github&logoColor=white)](https://github.com/RakeshBudhlakoti)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=flat-plastic&logo=github&logoColor=white)](https://github.com/ShubhamJoshi1998)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&style=flat-plastic&logo=twitter&logoColor=white)](https://www.facebook.com/budhlakoti)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-budhlakoti)
 
@@ -90,7 +90,7 @@ Currently working as a Developer in Health Ministry on NPHO (National Public Hea
 
 ```javascript
 const bio = {
-   name: 'Rakesh Budhlakoti',
+   name: 'Shubham Joshi',
    pronouns: 'He' | 'Him',
    languageSpoken: ['English', 'Hindi'],
    code: ['Javascript', 'HTML', 'CSS'],
@@ -110,12 +110,12 @@ const bio = {
 ### ☄️ Github Streaks ⚡ Github Stats :
 
 <p align="center">
-  <img width="378em" src="https://github-readme-stats.vercel.app/api?username=RakeshBudhlakoti&show_icons=true&locale=en&theme=radical"                alt="RakeshBudhlakoti"/>
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshBudhlakoti&theme=radical" alt="RakeshBudhlakoti" />
+  <img width="378em" src="https://github-readme-stats.vercel.app/api?username=ShubhamJoshi1998&show_icons=true&locale=en&theme=radical"                alt="ShubhamJoshi1998"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamJoshi1998&theme=radical" alt="ShubhamJoshi1998" />
 </p>
 
 <p align="center"> 
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshBudhlakoti&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJoshi1998&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
 </p>
 
 <br/>
