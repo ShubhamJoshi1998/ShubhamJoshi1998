@@ -1,45 +1,129 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=RakeshBudhlakoti&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham Joshi" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
-### Languages
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Shubham Joshi!]([https://github.com/RakeshBudhlakoti/](https://github.com/ShubhamJoshi1998)) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+### Glad to see you here! :octocat:
 
-### Technologies
+An enthusiastic and dynamic professional Software developer with rich and diversified, nearly 3.5 years of experience in design and development of Micro services application using **JS , ReactJS, NextJS, Node, Firebase, graphql**.
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+Currently working as a Developer in Health Ministry on NPHO (National Public Health Observatory) Project.
+• Integrating Multiple Health Portals into Dashboards on single Platform.
+• Dashboard development using **JavaScript, Highcharts, HTML, CSS, Ramda JS, PostgreSQL and implemented Maps** as per client requirement.
 
-### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+---
 
-### Cybersecurity Projects
+### :blush: Talking about Personal Stuff:
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
+<img align="right" height="250" width="400" alt="Rakesh Budhlakoti" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+-  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
+-  📰 &nbsp; Reading tech blogs whenever possible.
+-  🍕 &nbsp; Travelling, meetups & tech events.
+-  🚀 &nbsp; I’m currently learning Full Stack Web Development.
+-  :computer: &nbsp; Most written code line `console.log("hello world");`
+-  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RakeshBudhlakoti).
+-  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
+-  📝 &nbsp; Checkout my [Resume](https://github.com/RakeshBudhlakoti).
+
+
+🔗 Grab a link! Let's talk.
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=flat-plastic&logo=github&logoColor=white)](https://github.com/RakeshBudhlakoti)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&style=flat-plastic&logo=twitter&logoColor=white)](https://www.facebook.com/budhlakoti)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-budhlakoti)
+
+## 💻 Things I code with
+
+### 👨‍💻 Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-plastic&logo=nodedotjs&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-plastic&logo=json&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-plastic&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-plastic&logo=php&logoColor=white)
+
+### 🧰 Frameworks & Libraries
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-plastic&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-plastic&logo=redux&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-plastic&logo=express&logoColor=white)
+![Material%20Design](https://img.shields.io/badge/-Material%20Design-757575?style=flat-plastic&logo=materialdesign&logoColor=white)
+![Tailwind%20CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-plastic&logo=tailwindcss&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-plastic&logo=wordpress&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-plastic&logo=githubactions&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-plastic&logo=chartdotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-plastic&logo=JSON%20web%20tokens&logoColor=white)
+
+### ☁️🗄️ Cloud hosting & Database
+
+![GitHub%20Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat-plastic&logo=githubpages&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-plastic&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-plastic&logo=mongodb&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-plastic&logo=netlify&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-plastic&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-plastic&logo=postgresql&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-plastic&logo=heroku&logoColor=white)
+
+### ⚙️ Softwares & Tools
+
+
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-plastic&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-plastic&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-plastic&logo=ubuntu&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-plastic&logo=postman&logoColor=white)
+![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-plastic&logo=cpanel&logoColor=white)
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-plastic&logo=xampp&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-plastic&logo=linux&logoColor=white)
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-plastic&logo=babel&logoColor=white)
+![GoDaddy](https://img.shields.io/badge/-GoDaddy-1BDBDB?style=flat-plastic&logo=godaddy&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-plastic&logo=webpack&logoColor=white)
+![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-plastic&logo=visualstudiocode&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-plastic&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-plastic&logo=jira&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-plastic&logo=phpmyadmin&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-plastic&logo=eslint&logoColor=white)
+
+
+
+```javascript
+const bio = {
+   name: 'Rakesh Budhlakoti',
+   pronouns: 'He' | 'Him',
+   languageSpoken: ['English', 'Hindi'],
+   code: ['Javascript', 'HTML', 'CSS'],
+   askMeAbout: ['Web Dev', 'Tech', 'Photography','Travelling'],
+   technologies: {
+      web: {
+         frontEnd: ['ReactJS', 'HTML', 'Bootstrap'],
+         backEnd: ['NodeJS', 'ExpressJS', 'mongoose'],
+      },
+      databases: ['PostgreSQL','MySQL','MongoDB'],
+      misc: ['Firebase', 'Payment Gateways'],
+   },
+   currentFocus: 'Full Stack Development',
+};
+```
+
+### ☄️ Github Streaks ⚡ Github Stats :
+
+<p align="center">
+  <img width="378em" src="https://github-readme-stats.vercel.app/api?username=RakeshBudhlakoti&show_icons=true&locale=en&theme=radical"                alt="RakeshBudhlakoti"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshBudhlakoti&theme=radical" alt="RakeshBudhlakoti" />
+</p>
+
+<p align="center"> 
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshBudhlakoti&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
+</p>
+
+<br/>
+<h3 align="center">
+	⬇ Check my pinned projects below and leave a ⭐️ ⬇
+</h3>
+
+
+
+  
+  ---
