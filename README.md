@@ -97,11 +97,11 @@ const bio = {
    askMeAbout: ['Web Dev', 'Tech', 'Photography','Travelling'],
    technologies: {
       web: {
-         frontEnd: ['ReactJS', 'HTML', 'Bootstrap'],
-         backEnd: ['NodeJS', 'ExpressJS', 'mongoose'],
+         frontEnd: ['ReactJS',NextJS, 'HTML', 'Bootstrap'],
+         backEnd: ['NodeJS', 'ExpressJS', 'mongoose', Firestore],
       },
-      databases: ['PostgreSQL','MySQL','MongoDB'],
-      misc: ['Firebase', 'Payment Gateways'],
+      databases: ['PostgreSQL','MySQL','MongoDB', Cloud Firebase],
+      misc: ['Firebase', ],
    },
    currentFocus: 'Full Stack Development',
 };
