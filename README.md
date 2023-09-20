@@ -44,6 +44,7 @@ Currently working as a Developer in Health Ministry on NPHO (National Public Hea
 
 ### 🧰 Frameworks & Libraries
 
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-plastic&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-plastic&logo=redux&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-plastic&logo=express&logoColor=white)
@@ -63,23 +64,16 @@ Currently working as a Developer in Health Ministry on NPHO (National Public Hea
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-plastic&logo=netlify&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-plastic&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-plastic&logo=postgresql&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-plastic&logo=heroku&logoColor=white)
 
 ### ⚙️ Softwares & Tools
 
 
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-plastic&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-plastic&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-plastic&logo=ubuntu&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-plastic&logo=postman&logoColor=white)
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-plastic&logo=cpanel&logoColor=white)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-plastic&logo=xampp&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-plastic&logo=linux&logoColor=white)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-plastic&logo=babel&logoColor=white)
-![GoDaddy](https://img.shields.io/badge/-GoDaddy-1BDBDB?style=flat-plastic&logo=godaddy&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-plastic&logo=webpack&logoColor=white)
 ![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-plastic&logo=visualstudiocode&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-plastic&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-plastic&logo=jira&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-plastic&logo=phpmyadmin&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-plastic&logo=eslint&logoColor=white)
