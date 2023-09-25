@@ -77,7 +77,6 @@ Currently working as a Developer in Health Ministry on NPHO (National Public Hea
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-plastic&logo=phpmyadmin&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-plastic&logo=eslint&logoColor=white)
 
-
 ```javascript
 const bio = {
    name: 'Shubham Joshi',
