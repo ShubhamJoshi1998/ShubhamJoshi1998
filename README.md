@@ -20,7 +20,7 @@ Currently working as a Developer in Health Ministry on NPHO (National Public Hea
 -  📰 &nbsp; Reading tech blogs whenever possible.
 -  🍕 &nbsp; Travelling, meetups & tech events.
 -  🚀 &nbsp; I’m currently learning Full Stack Web Development.
--  :computer: &nbsp; Most written code line `console.log("hello world");`
+-  :computer: &nbsp; Most written code line `console.log("Hello World");`
 -  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ShubhamJoshi1998).
 -  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
 -  📝 &nbsp; Checkout my [Resume](https://github.com/ShubhamJoshi1998).
