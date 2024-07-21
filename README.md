@@ -10,6 +10,7 @@ Currently working as a Developer in Health Ministry on NPHO (National Public Hea
 • Integrating Multiple Health Portals into Dashboards on single Platform.
 • Dashboard development using **JavaScript, Highcharts, HTML, CSS, Ramda JS, PostgreSQL and implemented Maps** as per client requirement.
 
+
 ---
 
 ### :blush: Talking about Personal Stuff:
