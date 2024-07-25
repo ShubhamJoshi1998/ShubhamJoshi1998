@@ -5,7 +5,7 @@
 
 ### Glad to see you here! :octocat:
 
-An enthusiastic and dynamic professional Software developer with rich and diversified, nearly 3.5 years of experience in design and development of Micro services application using **JS , ReactJS, NextJS, Node, Firebase, graphql**.
+An enthusiastic and dynamic professional Software developer with rich and diversified, 4 years of experience in design and development of Micro services application using **JS , ReactJS, NextJS, Node, Firebase, graphql**.
 
 Currently working as a Developer in Health Ministry on NPHO (National Public Health Observatory) Project.
 • Integrating Multiple Health Portals into Dashboards on single Platform.
