@@ -2,7 +2,6 @@
 
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Shubham Joshi!]([https://github.com/ShubhamJoshi1998/](https://github.com/ShubhamJoshi1998)) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
-
 ### Glad to see you here! :octocat:
 
 An enthusiastic and dynamic professional Software developer with rich and diversified, 4 years of experience in design and development of Micro services application using **JS , ReactJS, NextJS, Node, Firebase, graphql**.
