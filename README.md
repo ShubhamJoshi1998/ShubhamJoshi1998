@@ -6,6 +6,7 @@
 
 An enthusiastic and dynamic professional Software developer with rich and diversified, 4 years of experience in design and development of Micro services application using **JS , ReactJS, NextJS, Node, Firebase, graphql**.
 
+
 Currently working as a Developer in Health Ministry on NPHO (National Public Health Observatory) Project.
 • Integrating Multiple Health Portals into Dashboards on single Platform.
 • Dashboard development using **JavaScript, Highcharts, HTML, CSS, Ramda JS, PostgreSQL and implemented Maps** as per client requirement.
