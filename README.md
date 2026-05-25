@@ -30,7 +30,7 @@
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 - 💻 Passionate about building scalable and responsive web applications
-- ⚛️ 5.5+ years experience in ReactJS ecosystem
+- ⚛️ 5.9+ years experience in ReactJS ecosystem
 - 📊 Dashboard Developer at **Education Ministry**
 - 🏛️ Working on **NICE (National Insights Center for Education)**
 - 📈 Specialized in Analytics & Visualization Dashboards
