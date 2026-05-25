@@ -1,119 +1,167 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ShubhamJoshi1998&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham Joshi" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
+<h1 align="center">
+  Hi 👋, I'm Shubham Joshi
+</h1>
 
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Shubham Joshi!]([https://github.com/ShubhamJoshi1998/](https://github.com/ShubhamJoshi1998)) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+<h3 align="center">
+🚀 Frontend Developer | ReactJS Developer | Full Stack Enthusiast
+</h3>
 
-### Glad to see you here! :octocat:
-
-An enthusiastic and dynamic professional Software developer with rich and diversified, 5.5 years of experience in design and development of Micro services application using **JS , ReactJS, NextJS, Node, Firebase, graphql**.
-
-Currently working as a Database Developer in Education Ministry on NICE (National Insights Center for Education) Project.
-• Integrating Multiple Education Portals into Dashboards on single Platform.
-• Dashboard development using **JavaScript, Highcharts, HTML, CSS, Ramda JS, PostgreSQL and implemented Maps** as per client requirement.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShubhamJoshi1998&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
 
 ---
 
-### :blush: Talking about Personal Stuff:
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img align="right" height="250" width="400" alt="Rakesh Budhlakoti" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+## 👨‍💻 About Me
 
--  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
--  📰 &nbsp; Reading tech blogs whenever possible.
--  🍕 &nbsp; Travelling, meetups & tech events.
--  🚀 &nbsp; I’m currently learning Full Stack Web Development.
--  :computer: &nbsp; Most written code line `console.log("Hello World");`
--  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ShubhamJoshi1998).
--  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
--  📝 &nbsp; Checkout my [Resume](https://github.com/ShubhamJoshi1998).
+- 🔭 Currently working on **Dashboard Development Projects**
+- 🌱 Learning **Full Stack Development**
+- 💬 Ask me about **ReactJS, JavaScript, NodeJS, SQL**
+- ⚡ Fun Fact:  
+  ```javascript
+  [] == false // true 😅
+  ```
 
+- 🎯 5.5+ Years of Experience in:
+  - ReactJS
+  - NextJS
+  - NodeJS
+  - Firebase
+  - PostgreSQL
+  - Dashboard Development
 
+---
 
-🔗 Grab a link! Let's talk.
+# 🚀 Tech Stack
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=flat-plastic&logo=github&logoColor=white)](https://github.com/ShubhamJoshi1998)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&style=flat-plastic&logo=twitter&logoColor=white)](https://twitter.com/shivam306joshi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-joshi-827b66165/)
+## 👨‍💻 Frontend
 
-## 💻 Things I code with
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap,tailwind" />
+</p>
 
-### 👨‍💻 Languages
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-plastic&logo=nodedotjs&logoColor=white)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-plastic&logo=json&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-plastic&logo=css3&logoColor=white)
+## ⚙️ Backend
 
-### 🧰 Frameworks & Libraries
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-plastic&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-plastic&logo=redux&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-plastic&logo=express&logoColor=white)
-![Material%20Design](https://img.shields.io/badge/-Material%20Design-757575?style=flat-plastic&logo=materialdesign&logoColor=white)
-![Tailwind%20CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-plastic&logo=tailwindcss&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-plastic&logo=wordpress&logoColor=white)
-![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-plastic&logo=githubactions&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-plastic&logo=chartdotjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-plastic&logo=JSON%20web%20tokens&logoColor=white)
+---
 
-### ☁️🗄️ Cloud hosting & Database
+## 🗄️ Database
 
-![GitHub%20Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat-plastic&logo=githubpages&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-plastic&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-plastic&logo=mongodb&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-plastic&logo=netlify&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-plastic&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-plastic&logo=postgresql&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
 
-### ⚙️ Softwares & Tools
+---
 
+## 🛠️ Tools & Platforms
 
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-plastic&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-plastic&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-plastic&logo=postman&logoColor=white)
-![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-plastic&logo=cpanel&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-plastic&logo=webpack&logoColor=white)
-![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-plastic&logo=visualstudiocode&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-plastic&logo=jira&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-plastic&logo=phpmyadmin&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-plastic&logo=eslint&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webpack" />
+</p>
 
-```javascript
-const bio = {
-   name: 'Shubham Joshi',
-   pronouns: 'He' | 'Him',
-   languageSpoken: ['English', 'Hindi'],
-   code: ['Javascript', 'HTML', 'CSS'],
-   askMeAbout: ['Web Dev', 'Tech', 'Photography','Travelling'],
-   technologies: {
-      web: {
-         frontEnd: ['ReactJS', 'NextJS', 'HTML', 'Bootstrap'],
-         backEnd: ['NodeJS', 'ExpressJS', 'mongoose', 'Firestore'],
-      },
-      databases: ['PostgreSQL','MySQL','MongoDB', 'Cloud Firebase'],
-      misc: ['Firebase'],
-   },
-   currentFocus: 'Full Stack Development',
-};
-```
+---
 
-### ☄️ Github Streaks ⚡ Github Stats :
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/ShubhamJoshi1998">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shubham-joshi-827b66165/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/shivam306joshi">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
+</a>
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img width="378em" src="https://github-readme-stats.vercel.app/api?username=ShubhamJoshi1998&show_icons=true&locale=en&theme=radical"                alt="ShubhamJoshi1998"/>
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamJoshi1998&theme=radical" alt="ShubhamJoshi1998" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShubhamJoshi1998&show_icons=true&theme=radical" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamJoshi1998&theme=radical" />
+
 </p>
 
-<p align="center"> 
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJoshi1998&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJoshi1998&layout=compact&theme=radical"/>
 </p>
 
-<br/>
+---
+
+# 💼 Professional Experience
+
+## 🏢 NICE (National Insights Center for Education)
+
+### Database Developer
+
+- 📊 Dashboard Development
+- 📈 Highcharts & Data Visualization
+- 🗺️ Interactive Maps
+- ⚡ API Integrations
+- 🗄️ PostgreSQL Query Optimization
+
+### Tech Used
+
+```javascript
+JavaScript | ReactJS | RamdaJS | PostgreSQL | Highcharts | HTML | CSS
+```
+
+---
+
+# ✨ Featured Projects
+
+## 🎬 YouTube Clone
+ReactJS + YouTube API based responsive video streaming app.
+
+## 🛒 Swiggy Clone
+Food ordering frontend application using ReactJS.
+
+## 📊 Education Dashboards
+Government analytics dashboards with interactive visualizations.
+
+---
+
+# ⚡ Fun Zone
+
+```javascript
+while(noSuccess){
+   tryAgain();
+}
+```
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Master Full Stack Development
+- ☁️ Learn Cloud Technologies
+- 📱 Build Scalable Applications
+- 🧠 Improve System Design Skills
+
+---
+
 <h3 align="center">
-	⬇ Check my pinned projects below and leave a ⭐️ ⬇
+⭐ Check Out My Repositories & Don't Forget To Star ⭐
 </h3>
 
-
-
-
-  ---
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
+</p>
